@@ -13,6 +13,10 @@
 		EE10A0922BBC48A100A946B3 /* Base in Resources */ = {isa = PBXBuildFile; fileRef = EE10A0912BBC48A100A946B3 /* Base */; };
 		EE10A0942BBC48A300A946B3 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = EE10A0932BBC48A300A946B3 /* Assets.xcassets */; };
 		EE10A0972BBC48A300A946B3 /* Base in Resources */ = {isa = PBXBuildFile; fileRef = EE10A0962BBC48A300A946B3 /* Base */; };
+<<<<<<< HEAD
+=======
+		EE61976C2BBCDC260005CCF5 /* BusinessViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = EE61976B2BBCDC260005CCF5 /* BusinessViewController.swift */; };
+>>>>>>> adcce0c (Welcome and Intro Page Implemented)
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +28,10 @@
 		EE10A0932BBC48A300A946B3 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		EE10A0962BBC48A300A946B3 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		EE10A0982BBC48A300A946B3 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+<<<<<<< HEAD
+=======
+		EE61976B2BBCDC260005CCF5 /* BusinessViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BusinessViewController.swift; sourceTree = "<group>"; };
+>>>>>>> adcce0c (Welcome and Intro Page Implemented)
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -63,6 +71,10 @@
 				EE10A0932BBC48A300A946B3 /* Assets.xcassets */,
 				EE10A0952BBC48A300A946B3 /* LaunchScreen.storyboard */,
 				EE10A0982BBC48A300A946B3 /* Info.plist */,
+<<<<<<< HEAD
+=======
+				EE61976B2BBCDC260005CCF5 /* BusinessViewController.swift */,
+>>>>>>> adcce0c (Welcome and Intro Page Implemented)
 			);
 			path = DormDeals;
 			sourceTree = "<group>";
@@ -140,6 +152,10 @@
 			files = (
 				EE10A08F2BBC48A100A946B3 /* ViewController.swift in Sources */,
 				EE10A08B2BBC48A100A946B3 /* AppDelegate.swift in Sources */,
+<<<<<<< HEAD
+=======
+				EE61976C2BBCDC260005CCF5 /* BusinessViewController.swift in Sources */,
+>>>>>>> adcce0c (Welcome and Intro Page Implemented)
 				EE10A08D2BBC48A100A946B3 /* SceneDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
